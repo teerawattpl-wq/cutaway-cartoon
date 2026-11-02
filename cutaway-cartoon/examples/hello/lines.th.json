@@ -1,0 +1,9 @@
+{
+  "voices": {"Narrator": "Charon"},
+  "styles": {"Narrator": "a warm, playful Thai storyteller, clear pronunciation, light humour, never theatrical"},
+  "lines": [
+    {"speaker": "Narrator", "text": "ป้ากับแมวส้ม อยู่ห้องเดียวกันมาสามปี และมีเรื่องทะเลาะเรื่องเดียว คือใครได้ถือรีโมต", "style": "opening hook, amused"},
+    {"speaker": "Narrator", "text": "ป้ายื่นมือไปหยิบ แมวก็ยื่นเท้ามาแตะ ตอนนี้รีโมตกำลังอยู่กลางโต๊ะ และทั้งสองคนไม่ยอมกันเลย", "style": "building the standoff"},
+    {"speaker": "Narrator", "text": "แล้วถ้าเป็นคุณ จะให้ใครได้ดูก่อนดี?", "style": "closing question to the listener"}
+  ]
+}

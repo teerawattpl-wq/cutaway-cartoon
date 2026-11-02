@@ -1,0 +1,9 @@
+.env
+.env.*
+build/
+__pycache__/
+node_modules/
+*.pyc
+# เสียงดิบและคลิปที่เรนเดอร์ ไม่ใช่ส่วนของสกิล
+*.wav
+*.mp4

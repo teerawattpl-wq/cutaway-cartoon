@@ -1,0 +1,6 @@
+{
+  "title": "ตัวอย่าง: ใครชนะรีโมต",
+  "size": [1080, 1920],
+  "scripts": ["../shared/figure.js", "../shared/set.js", "../shared/look.js", "../shared/cards.js", "film.js"],
+  "lead": 0.3, "gap": 0.35, "keep": 0.3, "tail": 2.5
+}
